@@ -1,0 +1,15 @@
+C:\Users\55449\OneDrive\Documentos\fundamentosdotnet\bin\Debug\net6.0\fundamentosdotnet.exe
+C:\Users\55449\OneDrive\Documentos\fundamentosdotnet\bin\Debug\net6.0\fundamentosdotnet.deps.json
+C:\Users\55449\OneDrive\Documentos\fundamentosdotnet\bin\Debug\net6.0\fundamentosdotnet.runtimeconfig.json
+C:\Users\55449\OneDrive\Documentos\fundamentosdotnet\bin\Debug\net6.0\fundamentosdotnet.dll
+C:\Users\55449\OneDrive\Documentos\fundamentosdotnet\bin\Debug\net6.0\fundamentosdotnet.pdb
+C:\Users\55449\OneDrive\Documentos\fundamentosdotnet\obj\Debug\net6.0\fundamentosdotnet.csproj.AssemblyReference.cache
+C:\Users\55449\OneDrive\Documentos\fundamentosdotnet\obj\Debug\net6.0\fundamentosdotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55449\OneDrive\Documentos\fundamentosdotnet\obj\Debug\net6.0\fundamentosdotnet.AssemblyInfoInputs.cache
+C:\Users\55449\OneDrive\Documentos\fundamentosdotnet\obj\Debug\net6.0\fundamentosdotnet.AssemblyInfo.cs
+C:\Users\55449\OneDrive\Documentos\fundamentosdotnet\obj\Debug\net6.0\fundamentosdotnet.csproj.CoreCompileInputs.cache
+C:\Users\55449\OneDrive\Documentos\fundamentosdotnet\obj\Debug\net6.0\fundamentosdotnet.dll
+C:\Users\55449\OneDrive\Documentos\fundamentosdotnet\obj\Debug\net6.0\refint\fundamentosdotnet.dll
+C:\Users\55449\OneDrive\Documentos\fundamentosdotnet\obj\Debug\net6.0\fundamentosdotnet.pdb
+C:\Users\55449\OneDrive\Documentos\fundamentosdotnet\obj\Debug\net6.0\fundamentosdotnet.genruntimeconfig.cache
+C:\Users\55449\OneDrive\Documentos\fundamentosdotnet\obj\Debug\net6.0\ref\fundamentosdotnet.dll
