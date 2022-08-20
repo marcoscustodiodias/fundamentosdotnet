@@ -1,2 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using fundamentosdotnet.Models;
+
+
+
+
+
+
+//Pessoa pessoa1 = new Pessoa();
+
+//pessoa1.Nome = "Dias";
+//pessoa1.Idade = 45;
+//pessoa1.Apresentar();
+
