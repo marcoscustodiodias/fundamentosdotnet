@@ -1,23 +1,17 @@
 ﻿using fundamentosdotnet.Models;
 
-Console.WriteLine("Digite uma letra");
-string letra = Console.ReadLine();
 
 
+bool possuiPresencaMinima = true;
+bool media = 7.5;
 
-switch (letra)
+if (possuiPresencaMinima && media >= 7)
 {
-    case "a":
-    case "e":
-    case "i":
-    case "o":
-    case "u":
-        Console.WriteLine("Vogal");
-        break;
-
-    default:
-        Console.WriteLine("Não é uma vogal");
-        break;
+    Console.WriteLine("Aprovado");
+}
+else
+{
+    Console.WriteLine("Reprovado");
 }
 
 
@@ -27,6 +21,46 @@ switch (letra)
 
 
 
+
+
+
+
+
+
+// bool eMaiorDeIdade = true;
+// bool possuiAutorizacaoDoResponsavel = false;
+
+// if (eMaiorDeIdade || possuiAutorizacaoDoResponsavel)
+// {
+//     Console.WriteLine("Entrada liberada");
+// }
+// else
+// {
+//     Console.WriteLine("Entrada não liberada");
+// }
+
+
+
+
+// Console.WriteLine("Digite uma letra");
+// string letra = Console.ReadLine();
+
+
+
+// switch (letra)
+// {
+//     case "a":
+//     case "e":
+//     case "i":
+//     case "o":
+//     case "u":
+//         Console.WriteLine("Vogal");
+//         break;
+
+//     default:
+//         Console.WriteLine("Não é uma vogal");
+//         break;
+// }
 
 
 
