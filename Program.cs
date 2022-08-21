@@ -1,24 +1,56 @@
 ﻿using fundamentosdotnet.Models;
 
-int quantidadeEmEstoque = 10;
 
-int quantidadeCompra = 4;
-
-bool possívelVenda = quantidadeEmEstoque >= quantidadeCompra;
-
-Console.WriteLine($"Quantidade em estoque: {quantidadeEmEstoque}");
-Console.WriteLine($"Quantidade compra: {quantidadeCompra}");
-Console.WriteLine($"É possível realizar a venda? {possívelVenda}");
+Console.WriteLine("Digite uma letra");
+string letra = Console.ReadLine();
 
 
-if (possívelVenda)
-{
-    Console.WriteLine("Venda realizada.");
-}
-else
-{
-    Console.WriteLine("Desculpe. Não temos a quantidade desejada em estoque.");
-}
+if (letra == "a"||
+    letra == "e"||
+    letra == "i"||
+    letra == "o"||
+    letra == "u")
+    
+    {
+        Console.WriteLine("Vogal");
+    }
+    else
+    {
+        Console.WriteLine("Não é uma vogal");
+    }
+
+
+
+
+
+
+
+
+
+
+
+// int quantidadeEmEstoque = 3;
+
+// int quantidadeCompra = 0;
+
+// bool possívelVenda = quantidadeCompra > 0 && quantidadeEmEstoque >= quantidadeCompra;
+
+// Console.WriteLine($"Quantidade em estoque: {quantidadeEmEstoque}");
+// Console.WriteLine($"Quantidade compra: {quantidadeCompra}");
+// Console.WriteLine($"É possível realizar a venda? {possívelVenda}");
+
+// if (quantidadeCompra == 0)
+// {
+//     Console.WriteLine("Venda Inválida");
+// }
+// else if (possívelVenda)
+// {
+//     Console.WriteLine("Venda realizada.");
+// }
+// else
+// {
+//     Console.WriteLine("Desculpe. Não temos a quantidade desejada em estoque.");
+// }
 
 
 
