@@ -1,7 +1,29 @@
 ﻿using fundamentosdotnet.Models;
 
+int quantidadeEmEstoque = 10;
 
-double a = 4 / 2 + 2;
+int quantidadeCompra = 4;
+
+
+if (quantidadeEmEstoque >= quantidadeCompra)
+{
+    Console.WriteLine("Venda realizada.");
+}
+else
+{
+    Console.WriteLine("Desculpe. Não temos a quantidade desejada em estoque.");
+}
+
+
+
+
+
+
+
+
+
+
+//double a = 4 / 2 + 2;
 
 //Console.WriteLine(a);
 
