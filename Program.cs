@@ -1,24 +1,36 @@
-﻿using fundamentosdotnet.Models;
-
-
-
-bool possuiPresencaMinima = true;
-bool media = 7.5;
-
-if (possuiPresencaMinima && media >= 7)
-{
-    Console.WriteLine("Aprovado");
-}
-else
-{
-    Console.WriteLine("Reprovado");
-}
+﻿
 
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+// using fundamentosdotnet.Models;
+
+
+
+// bool possuiPresencaMinima = true;
+// bool media = 7.5;
+
+// if (possuiPresencaMinima && media >= 7)
+// {
+//     Console.WriteLine("Aprovado");
+// }
+// else
+// {
+//     Console.WriteLine("Reprovado");
+// }
 
 
 
