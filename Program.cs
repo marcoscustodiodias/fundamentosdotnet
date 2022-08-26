@@ -8,6 +8,10 @@ while (contador <= 10)
 {
    Console.WriteLine($"{contador + 1}º Execução: {numero} X {contador} = {numero * contador}");
    contador++;
+   if (contador == 6)
+   {
+      break;
+   }
 }
 
 
