@@ -1,18 +1,18 @@
 ﻿using fundamentosdotnet.Models;
 
+int soma = 0, numero = 0;
 
-int numero = 5;
-int contador = 0;
-
-while (contador <= 10)
+do
 {
-   Console.WriteLine($"{contador + 1}º Execução: {numero} X {contador} = {numero * contador}");
-   contador++;
-   if (contador == 6)
-   {
-      break;
-   }
-}
+   Console.WriteLine("Digite um numero");
+   numero = Convert.ToInt32(Console.ReadLine());
+
+   soma += numero;
+
+
+} while (numero != 0);
+
+Console.WriteLine($"Total da soma dos números digitados é: {soma}");
 
 
 
@@ -21,6 +21,26 @@ while (contador <= 10)
 
 
 
+
+
+
+
+
+
+
+
+// int numero = 5;
+// int contador = 0;
+
+// while (contador <= 10)
+// {
+//    Console.WriteLine($"{contador + 1}º Execução: {numero} X {contador} = {numero * contador}");
+//    contador++;
+//    if (contador == 6)
+//    {
+//       break;
+//    }
+// }
 
 
 
