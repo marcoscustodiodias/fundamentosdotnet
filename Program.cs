@@ -1,9 +1,27 @@
 ﻿using fundamentosdotnet.Models;
 
 
+int numero = 5;
+int contador = 0;
+
+while (contador <= 10)
+{
+   Console.WriteLine($"{contador + 1}º Execução: {numero} X {contador} = {numero * contador}");
+   contador++;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 // int numero = 5;
-
-
 
 
 // for(int contador = 0; contador <= 10; contador++)
